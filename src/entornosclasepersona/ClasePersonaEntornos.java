@@ -25,9 +25,8 @@ public class ClasePersonaEntornos {
             
         }
 
-       System.out.println("Esto es el comentario del commit #4");
-       System.out.println("Esto es el comentario del commit #4"); 
-       System.out.println("Esto es el comentario del commit #4"); 
+       System.out.println("Esto es el comentario del commit #2");
+        
     }
 
     public ClasePersonaEntornos ( String apellidos, String fecha) throws IllegalArgumentException {
